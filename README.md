@@ -1,5 +1,7 @@
 # Interpolación
 
+[Originally created in November 2017]
+
 El problema de construir una función continua a partir de datos discretos es inevitable cuando estos datos deben ser manipulados de cierta manera que se necesita información no incluida explícitamente. Para resolver este problema, el esquema más utilizado es la **interpolación** que consiste en construir una función que aproxime de la manera más perfecta a la función original desconocida en los puntos de la medición.
 
 La interpolación de imágenes es una operación muy importante usada en imagenología médica, procesamiento de imágenes y graficación por computadora. Existe una gran variedad de métodos de interpolación reportados en la literatura. La interpolación de imágenes es necesaria en una gran variedad de situaciones como las que se mencionan a continuación:
